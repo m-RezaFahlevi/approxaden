@@ -7,7 +7,7 @@ Authors@R:
            email = "muhammadrezafahlevi666@gmail.com")
 Description: Finding the point estimate of parameter using numerical analysis, 
     heuristic, and metaheuristic.
-License: `use_mit_license()`
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
